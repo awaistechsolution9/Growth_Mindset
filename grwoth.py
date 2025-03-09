@@ -2,7 +2,6 @@ import streamlit as st
 import random
 import datetime
 import time
-import openai 
 import streamlit_antd_components as sac
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_lottie import st_lottie
